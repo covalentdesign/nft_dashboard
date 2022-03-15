@@ -7,13 +7,13 @@ export const CONFIG = {
     "block_chain_id": "137",
 
     // 3. Set the default title of your dashboard. If found, this template uses the NFT Collection name for the title.
-    "title": "My NFT Collection",
+    "title": "Covalent NFT Dashboard",
 
     // 4. (Optional) Display the floor price chart
     "timeseries_chart": true,
 
     // 5. (Optional) Set your banner image
-    "banner_picture": "https://www.superflexfitness.com/wp-content/uploads/2017/03/3D-banner-background.jpg",
+    "banner_picture": "https://www.covalenthq.com/static/images/backgrounds/Particles_Fibreoptics_6.jpg",
   },
 
   // These options just for your reference
